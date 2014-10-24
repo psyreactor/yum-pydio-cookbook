@@ -108,3 +108,5 @@ Authors:
 Lucas Mariani (Psyreactor)
 - [marianiluca@gmail.com](mailto:marianiluca@gmail.com)
 - [https://github.com/psyreactor](https://github.com/psyreactor)
+- [http://blog.psyreactor.com.ar](http://blog.psyreactor.com.ar)
+
